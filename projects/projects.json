@@ -1,0 +1,29 @@
+[
+  {
+    "name": "plucky-cub-1995",
+    "desc": "Tech Stack : Html | Css | Javascript | React | Firebase | Paypal Gatway",
+    "image": "p1",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/KRISH-200806/plucky-cub-1995"
+    }
+  },
+  {
+    "name": "LOGIN-SYSTEM-WITH-BLOG-PROJECT",
+    "desc": " Tech Stack: React.js (frontend), Node.js, Express, MongoDB (backend).",
+    "image": "p2",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/KRISH-200806/LOGIN-SYSTEM-WITH-BLOG-PROJECT"
+    }
+  },
+  {
+    "name": "MERN Blog",
+    "desc": "Tech Stack: React.js (frontend), Node.js, Express, MongoDB (backend).",
+    "image": "p3",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/KRISH-200806/mernblogBE"
+    }
+  }  
+]
