@@ -648,6 +648,7 @@ header .navbar ul li a:hover {
 /* education section ends */
 
 /* work section starts */
+
 .work {
   background: black;
   min-height: 70vh;
@@ -665,6 +666,8 @@ header .navbar ul li a:hover {
   flex-wrap: wrap;
   gap: 1.5rem;
   margin: 5rem;
+    display: grid;
+  grid-template-columns: repeat(3,1fr);
 }
 .work .box-container .box {
   flex: 1 1 30rem;
@@ -673,6 +676,7 @@ header .navbar ul li a:hover {
   position: relative;
   overflow: hidden;
   height: 30rem;
+ 
 }
 .work .box-container .box img {
   height: 100%;
@@ -831,7 +835,7 @@ header .navbar ul li a:hover {
   right: 30px;
   border: medium solid #00d9ff;
   border-width: 10px 0 10px 10px;
-  border-color: transparent transparent transparent #f68c09;
+  border-color: transparent transparent transparent #00d9ff;
 }
 /* arrows pointing left  */
 .experience .right::before {

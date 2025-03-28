@@ -28,7 +28,7 @@
   }, {
     "name": "Real-Time Chat Web/App",
     "desc": "Tech Stack: React.js (frontend),Tailwind CSS ,Zustand (or Redux) ,Socket io, Node.js, Express, MongoDB (backend).",
-    "image": "p4",
+    "image": "p3",
     "category": "mern",
     "links": {
       "code": "https://github.com/KRISH-200806/WhatsApp-Clone"
